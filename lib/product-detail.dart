@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'product.dart';
 import 'star-rating.dart';
-import 'cart.dart'; // Importa el archivo del carrito
+import 'cart.dart';
 
 class ProductDetail extends StatelessWidget {
   final Product product;
