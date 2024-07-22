@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'api_service.dart';
 import 'product.dart';
-import 'cart.dart'; // Importa el archivo del carrito
+import 'cart.dart';
 
 class ProductList extends StatefulWidget {
   const ProductList({super.key});
